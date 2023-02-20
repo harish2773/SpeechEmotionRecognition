@@ -1,4 +1,4 @@
-# SpeechEmotionRecognition
+# Speech Emotion Recognition
 
 ## Aim
 The aim of this project is to build a deep learning model using CNNs which recognizes emotion based on speech.
